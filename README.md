@@ -1,3 +1,3 @@
 # Bakalarska-praca
-Rene Ivanic
+Rene Ivanic\n
 Automatizované rozpoznávanie osobných identifikačných dokladov
